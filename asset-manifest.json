@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/players-data/static/css/main.f9a336a1.css",
+    "main.js": "/players-data/static/js/main.31b38de2.js",
+    "index.html": "/players-data/index.html",
+    "main.f9a336a1.css.map": "/players-data/static/css/main.f9a336a1.css.map",
+    "main.31b38de2.js.map": "/players-data/static/js/main.31b38de2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a336a1.css",
+    "static/js/main.31b38de2.js"
+  ]
+}
